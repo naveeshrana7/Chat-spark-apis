@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+dist*
+.env
+
+firebase_creds.json
+package-lock.json
+swagger.yml
+*.bkp
+
+coverage
+.vscode
+app/generated/
+package-lock.json
