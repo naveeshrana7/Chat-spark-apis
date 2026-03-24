@@ -1,7 +1,6 @@
 .DS_Store
 node_modules
 dist*
-.env
 
 firebase_creds.json
 package-lock.json
